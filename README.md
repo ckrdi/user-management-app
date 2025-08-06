@@ -1,4 +1,4 @@
-# Fullstack User Management App
+# User Management App
 
 A full-stack web application built with NestJS (Node.js + TypeScript) and React 18 (Vite + TypeScript) that demonstrates JWT authentication, user management, and clean architectural patterns—now backed by PostgreSQL via Prisma ORM.
 
