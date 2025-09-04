@@ -35,13 +35,14 @@ user-management-app/
 ├── frontend/
 │   ├── public/
 │   ├── src/
+│   │   ├── api/
 │   │   ├── assets/
 │   │   ├── components/
-│   │   ├── router/
-│   │   ├── services/
-│   │   ├── views/
-│   │   ├── App.vue
-│   │   └── main.js
+│   │   ├── hooks/
+│   │   ├── pages/
+│   │   ├── App.tsx
+│   │   ├── index.css
+│   │   └── main.tsx
 │   ├── .env.example
 │   ├── eslint.config.js
 │   ├── index.html
